@@ -1,0 +1,1 @@
+A simple little javascript assetmanager / preloader.
